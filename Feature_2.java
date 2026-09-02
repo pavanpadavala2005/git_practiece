@@ -18,4 +18,7 @@ public class Feature_2 {
 
     public static void feature2IsLive() {
     }
+
+    public static void feature2IsLive() {
+    }
 }
