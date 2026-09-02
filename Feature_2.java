@@ -15,4 +15,7 @@ public class Feature_2 {
 
     public static void feature2UnderTesting() {
     }
+
+    public static void feature2IsLive() {
+    }
 }
