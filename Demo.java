@@ -15,4 +15,8 @@ public class Demo {
         nums[i] = nums[j];
         nums[j] = temp;
     }
+
+    public static int increment(int val) {
+        return val + 1;
+    }
 }
