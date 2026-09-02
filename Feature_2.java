@@ -7,18 +7,15 @@ public class Feature_2 {
 
     }
 
-    public static void feature2IsUnderDeveloping() {
-        System.out.println(
-                "Hey i Stared Developing feature_2"
-        //
-        );
+    public static void feature2StartedDevelop() {
     }
 
-    public static void feature2IsUnderTesting() {
-        System.out.println(
-                "Hey i Stared Testing feature_2"
-        //
-        );
+    public static void feature2UnderDeveloping() {
     }
 
+    public static void feature2UnderTesting() {
+    }
+
+    public static void feature2IsLive() {
+    }
 }
