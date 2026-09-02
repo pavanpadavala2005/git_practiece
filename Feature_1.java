@@ -12,9 +12,7 @@ public class Feature_1 {
     }
 
     public static void feature1Testing() {
-        System.out.println(
-                "I am Writing Testing Script"
-        //
-        );
+
     }
+
 }
