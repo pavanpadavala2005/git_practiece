@@ -14,4 +14,11 @@ public class Feature_2 {
         );
     }
 
+    public static void feature2IsUnderTesting() {
+        System.out.println(
+                "Hey i Stared Testing feature_2"
+        //
+        );
+    }
+
 }
