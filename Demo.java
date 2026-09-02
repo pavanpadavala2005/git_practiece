@@ -9,4 +9,10 @@ public class Demo {
                 System.out.print(mat[i][j] + " ");
         System.out.println();
     }
+
+    public static void swap(int[] nums, int i, int j) {
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
+    }
 }
