@@ -19,4 +19,12 @@ public class Demo {
     public static int increment(int val) {
         return val + 1;
     }
+
+    public static int decrement(int val) {
+        return val - 1;
+    }
+
+    public static int decrement(int val1, int val2) {
+        return val1 * val2;
+    }
 }
