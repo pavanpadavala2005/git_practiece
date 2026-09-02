@@ -6,4 +6,7 @@ public class Feature_2 {
     public static void feature2Loading() {
 
     }
+
+    public static void feature2StartedDevelop() {
+    }
 }
