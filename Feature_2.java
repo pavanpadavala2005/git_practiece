@@ -12,4 +12,7 @@ public class Feature_2 {
 
     public static void feature2UnderDeveloping() {
     }
+
+    public static void feature2UnderTesting() {
+    }
 }
