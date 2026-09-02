@@ -24,7 +24,13 @@ public class Demo {
         return val - 1;
     }
 
-    public static int decrement(int val1, int val2) {
+    public static int multiply(int val1, int val2) {
         return val1 * val2;
+    }
+
+    public static int divide(int val1, int val2) {
+        if (val2 == 0)
+            return 0;
+        return val1 / val2;
     }
 }
