@@ -18,4 +18,7 @@ public class Feature_1 {
     public static void feature1StartedDeploy() {
     }
 
+    public static void feature1Live() {
+    }
+
 }
